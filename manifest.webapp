@@ -1,0 +1,27 @@
+{
+  "version": "0.1",
+  "name": "Mortar Template Template App",
+  "description": "A template for building templates",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "60": "/img/icons/mortar-60.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Mozilla",
+    "url": "http://mozilla.org"
+  },
+  "installs_allowed_from": ["https://marketplace.firefox.com"],
+  "appcache_path": "/manifest.appcache",
+  "locales": {
+    "es": {
+      "description": "Plantilla para plantillas Mortar",
+      "developer": {
+        "url": "http://mozilla.org"
+      }
+    }
+  },
+  "default_locale": "en"
+}
