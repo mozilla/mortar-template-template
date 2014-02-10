@@ -31,11 +31,9 @@ python -m SimpleHTTPServer
 
 then access `localhost:8000` using Firefox (Desktop or Mobile), or the Browser app in a Firefox OS simulator (or device).
 
-Open ````index.html```` in your browser to run the game. Alternatively, since we include a `manifest.webapp` file, you can also install the app in your Firefox OS device or simulator using the [App Manager](https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager).
-
 **(If it's a packaged app)**
 
-Import the app into the [App Manager](https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager), then you can run it in the simulator or in a Firefox OS device.
+Import the app into the [App Manager](https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager), then you can run it in the simulator, or in a Firefox OS device.
 
 ## Code walkthrough
 
