@@ -3,3 +3,14 @@ html, body {
     padding: 0;
 }
 
+#status {
+    color: #666;
+}
+
+/* Remove this for a privileged app - the install button doesn't make
+ * sense in those contexts */
+.hidden {
+    display: none;
+}
+
+/* ----------------------- */

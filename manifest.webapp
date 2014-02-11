@@ -13,8 +13,8 @@
     "name": "Mozilla",
     "url": "http://mozilla.org"
   },
-  "installs_allowed_from": ["https://marketplace.firefox.com"],
-  "appcache_path": "/manifest.appcache",
+  "type": "web",
+  "installs_allowed_from": ["*"],
   "locales": {
     "es": {
       "description": "Plantilla para plantillas Mortar",
