@@ -7,6 +7,10 @@ var AppInstall = (function() {
 
   function isInstalled(manifestPath, callback) {
 
+    if(!isInstallable()) {
+      return false;
+    }
+
     var request = window.navigator.mozApps.checkInstalled(manifestPath);
 
     request.onsuccess = function() {
