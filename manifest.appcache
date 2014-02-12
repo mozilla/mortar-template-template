@@ -1,10 +1,12 @@
+CACHE MANIFEST
+
 # AppCache manifest
 # V1
-/index.html
-/css/app.css
-/img/icons/mortar-16.png
-/img/icons/mortar-48.png
-/img/icons/mortar-60.png
-/img/icons/mortar-128.png
-/js/app.js
-/js/install.js
+index.html
+css/app.css
+img/icons/mortar-16.png
+img/icons/mortar-48.png
+img/icons/mortar-60.png
+img/icons/mortar-128.png
+js/app.js
+js/install.js
